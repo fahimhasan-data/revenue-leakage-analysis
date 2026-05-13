@@ -86,7 +86,7 @@ Click any section to jump directly to that part of the code:
 
 | | Repository | Focus | Impact |
 |--|------------|-------|--------|
-| ➡️ | [customer-rfm-segmentation](https://github.com/YOUR-USERNAME/customer-rfm-segmentation) | Who are our best customers? | $235K retention |
+| ➡️ | [customer-rfm-segmentation](https://github.com/fahimhasan-data/customer-rfm-segmentation/tree/main) | Who are our best customers? | $235K retention |
 | ➡️ | [executive-dashboard](https://github.com/YOUR-USERNAME/executive-dashboard) | Power BI KPI dashboard | Real-time insights |
 
 ---
